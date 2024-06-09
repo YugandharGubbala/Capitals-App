@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background-color: #ffffff;
+  color: black;
+  width: 60%;
+  height: 30%;
+  border-radius: 15px;
+  padding-top: 34px;
+  padding-left: 36px;
+}
+.heading {
+  color: #323f4b;
+  font-weight: 600;
+  font-family: 'roboto';
+}
+.cap {
+  display: flex;
+  align-items: center;
+}
+.capselect {
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid #cbd2d9;
+  font-size: 15px;
+}
+.country{
+  color: #323f4b;
+  font-weight: 500;
+  font-size: 27px;
+  font-family: 'roboto';
+}
